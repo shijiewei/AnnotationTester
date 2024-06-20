@@ -1,0 +1,2 @@
+# 注册自定义的注解处理程序
+com.jack.endroid.compiler.CustomizedProcessor
